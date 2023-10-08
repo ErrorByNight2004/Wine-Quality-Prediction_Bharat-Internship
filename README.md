@@ -32,3 +32,5 @@ Preparing Data for Modelling
 Applying different models
 Choosing right model
 Hurray you just completed the task !
+![Uploading image.png…]()
+
