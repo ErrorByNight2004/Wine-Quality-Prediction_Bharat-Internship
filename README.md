@@ -24,17 +24,17 @@ To determine which features are the most indicative of a good quality wine
 
 Steps included in this project:
 
-Importing Lib
-Loading Data
-Understanding Data
-Missing Values
-Exploring Variables(Data Anylasis)
-Feature Selection
-Proportion of Good vs Bad Wines
-Preparing Data for Modelling
-Applying different models
-Choosing right model
-Hurray you just completed the task !
+1.Importing Lib
+2.Loading Data
+3.Understanding Data
+4.Missing Values
+5.Exploring Variables(Data Anylasis)
+6.Feature Selection
+7.Proportion of Good vs Bad Wines
+8.Preparing Data for Modelling
+9.Applying different models
+10.Choosing right model
+11.Hurray you just completed the task !
 
 ![Uploading image.png…]()
 
